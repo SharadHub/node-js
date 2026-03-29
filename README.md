@@ -3,7 +3,7 @@
 
 ## What This Covers
 
-End-to-end backend development — from core Node.js concepts to deploying a live API
+End-to-end backend development from core Node.js concepts to deploying a live API
 with authentication and a real database.
 
 ---
@@ -43,6 +43,7 @@ with authentication and a real database.
 ---
 
 ## Tech Stack
+I will learn all these topics inside this course.
 
 | Layer | Technology |
 |---|---|
@@ -67,6 +68,4 @@ with authentication and a real database.
 
 ## Contact
 
-Open to feedback, collaboration, or entry-level opportunities.
-
-> Actively building projects alongside this curriculum to apply concepts in real scenarios.
+Open to entry-level opportunities.
