@@ -28,15 +28,6 @@ app.get("/users/:id", (req, res) => {
   res.json(user);
 });
 
-
-
-
-
-
-
-
-
-
 app.listen(3000, () => {
   console.log("Server is running......");
 });
