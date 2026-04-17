@@ -1,0 +1,18 @@
+{
+	"scripts": {
+		"dev": "nodemon server.js",
+		"start": "nodemon server.js"
+	},
+	"type": "commonjs",
+	"dependencies": {
+		"express": "^5.2.1"
+	},
+	"name": "day-03-clean-architecture",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"devDependencies": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
