@@ -5,10 +5,15 @@ const express = require('express');
 const router = express.Router();
 
 // importing controllers
-const { getNotes, createNotes } = require('../controllers/controllers');
+const { getNote, createNote } = require('../controllers/controllers');
 
 // routing URLs
-router.route('/').get(getNotes).post(createNotes);
+router.route('/').get(getNote);
+router.route('/:id').get(getNote);
+
+router.route('/').post(createNote);
+router.route('/:id').post(createNote);
+// router.route('/').get(getNote).post(createNote);
 
 // exporting this routing file
 module.exports = router;
