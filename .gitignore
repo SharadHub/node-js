@@ -139,4 +139,4 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 # Shell scripts
-auto-push.sh
+commit-and-push.sh
